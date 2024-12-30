@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step152_Assignment\Step152_Assignment\bin\Debug\Step152_Assignment.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step152_Assignment\Step152_Assignment\bin\Debug\Step152_Assignment.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step152_Assignment\Step152_Assignment\bin\Debug\Step152_Assignment.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step152_Assignment\Step152_Assignment\obj\Debug\Step152_Assignment.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step152_Assignment\Step152_Assignment\obj\Debug\Step152_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step152_Assignment\Step152_Assignment\obj\Debug\Step152_Assignment.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step152_Assignment\Step152_Assignment\obj\Debug\Step152_Assignment.pdb
