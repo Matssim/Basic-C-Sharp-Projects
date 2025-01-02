@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step176_Assignment\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step176_Assignment\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step176_Assignment\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step176_Assignment\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step176_Assignment\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step176_Assignment\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step176_Assignment\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
