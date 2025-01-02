@@ -1,6 +1,6 @@
 ﻿using System; //Calls the base class library
 
-namespace mathAndComparisonApp //Organizes the following code in the DailyReport namespace
+namespace mathAndComparisonApp //Organizes the following code in the mathAndComparisonApp namespace
 {
     internal class Program //Creates a class as a console application
     {
