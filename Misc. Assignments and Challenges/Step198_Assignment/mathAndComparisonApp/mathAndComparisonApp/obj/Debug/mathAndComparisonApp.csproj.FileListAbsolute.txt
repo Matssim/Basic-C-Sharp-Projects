@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step198_Assignment\mathAndComparisonApp\mathAndComparisonApp\bin\Debug\mathAndComparisonApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step198_Assignment\mathAndComparisonApp\mathAndComparisonApp\bin\Debug\mathAndComparisonApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step198_Assignment\mathAndComparisonApp\mathAndComparisonApp\bin\Debug\mathAndComparisonApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step198_Assignment\mathAndComparisonApp\mathAndComparisonApp\obj\Debug\mathAndComparisonApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step198_Assignment\mathAndComparisonApp\mathAndComparisonApp\obj\Debug\mathAndComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step198_Assignment\mathAndComparisonApp\mathAndComparisonApp\obj\Debug\mathAndComparisonApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step198_Assignment\mathAndComparisonApp\mathAndComparisonApp\obj\Debug\mathAndComparisonApp.pdb
