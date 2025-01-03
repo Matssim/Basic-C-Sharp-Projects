@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Insurrance_Approval_Program\InsurranceApprovalApp\InsurranceApprovalApp\bin\Debug\InsurranceApprovalApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Insurrance_Approval_Program\InsurranceApprovalApp\InsurranceApprovalApp\bin\Debug\InsurranceApprovalApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Insurrance_Approval_Program\InsurranceApprovalApp\InsurranceApprovalApp\bin\Debug\InsurranceApprovalApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Insurrance_Approval_Program\InsurranceApprovalApp\InsurranceApprovalApp\obj\Debug\InsurranceApprovalApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Insurrance_Approval_Program\InsurranceApprovalApp\InsurranceApprovalApp\obj\Debug\InsurranceApprovalApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Insurrance_Approval_Program\InsurranceApprovalApp\InsurranceApprovalApp\obj\Debug\InsurranceApprovalApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Insurrance_Approval_Program\InsurranceApprovalApp\InsurranceApprovalApp\obj\Debug\InsurranceApprovalApp.pdb
