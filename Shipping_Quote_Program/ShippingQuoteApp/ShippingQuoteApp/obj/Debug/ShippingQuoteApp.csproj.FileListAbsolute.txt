@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Shipping_Quote_Program\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Shipping_Quote_Program\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Shipping_Quote_Program\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Shipping_Quote_Program\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Shipping_Quote_Program\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Shipping_Quote_Program\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Shipping_Quote_Program\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.pdb
