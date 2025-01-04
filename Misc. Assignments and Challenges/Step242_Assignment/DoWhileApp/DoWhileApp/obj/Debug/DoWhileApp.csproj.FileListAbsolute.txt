@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step242_Assignment\DoWhileApp\DoWhileApp\bin\Debug\DoWhileApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step242_Assignment\DoWhileApp\DoWhileApp\bin\Debug\DoWhileApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step242_Assignment\DoWhileApp\DoWhileApp\bin\Debug\DoWhileApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step242_Assignment\DoWhileApp\DoWhileApp\obj\Debug\DoWhileApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step242_Assignment\DoWhileApp\DoWhileApp\obj\Debug\DoWhileApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step242_Assignment\DoWhileApp\DoWhileApp\obj\Debug\DoWhileApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step242_Assignment\DoWhileApp\DoWhileApp\obj\Debug\DoWhileApp.pdb
