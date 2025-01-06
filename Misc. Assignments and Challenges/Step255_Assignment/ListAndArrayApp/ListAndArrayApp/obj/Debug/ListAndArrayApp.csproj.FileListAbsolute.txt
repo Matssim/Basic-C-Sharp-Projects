@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step255_Assignment\ListAndArrayApp\ListAndArrayApp\bin\Debug\ListAndArrayApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step255_Assignment\ListAndArrayApp\ListAndArrayApp\bin\Debug\ListAndArrayApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step255_Assignment\ListAndArrayApp\ListAndArrayApp\bin\Debug\ListAndArrayApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step255_Assignment\ListAndArrayApp\ListAndArrayApp\obj\Debug\ListAndArrayApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step255_Assignment\ListAndArrayApp\ListAndArrayApp\obj\Debug\ListAndArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step255_Assignment\ListAndArrayApp\ListAndArrayApp\obj\Debug\ListAndArrayApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step255_Assignment\ListAndArrayApp\ListAndArrayApp\obj\Debug\ListAndArrayApp.pdb
