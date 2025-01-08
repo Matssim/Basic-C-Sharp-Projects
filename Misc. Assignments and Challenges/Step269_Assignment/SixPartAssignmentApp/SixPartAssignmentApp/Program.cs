@@ -1,14 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SixPartAssignmentApp
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             //PART ONE ASSIGNMENT
             //Establishes an array of strings
@@ -105,7 +102,7 @@ namespace SixPartAssignmentApp
 
 
             //PART FOUR ASSIGNMENT
-            //Establishes as list of months as a class and instantiates the list of months in the year as an object
+            //Establishes a list of months as a class and instantiates the list of months in the year as an object
             List<string> months = new List<string>()
             {
                 "JANUARY",
@@ -155,7 +152,7 @@ namespace SixPartAssignmentApp
 
 
             //PART FIVE ASSIGNMENT
-            //Establishes as list of days as a class and instantiates the list of days as an object, with Monday listed twice
+            //Establishes a list of days as a class and instantiates the list of days as an object, with Monday listed twice
             List<string> days = new List<string>()
             {
                 "MONDAY",
@@ -200,66 +197,26 @@ namespace SixPartAssignmentApp
 
 
             //PART SIX ASSIGNMENT
+            //Establishes a list of fruits as a class and instantiates the list of days as an object, with "apple" listed twice
             List<string> fruits = new List<string>() { "apple", "orange", "pineapple", "apple" };
-
-            //--FIRST ATTEMPT--
-            foreach (string fruit in fruits)
-            {
-                string queriedFruit = fruit;
-                if (queriedFruit != fruit)
-                {
-                    fruit.Concat(" - this item is unique");
-                }
-                else if (queriedFruit == fruit)
-                {
-                    fruit.Concat(" - this item is a duplicate");
-                }
-            }
-            Console.WriteLine(fruits);
-
-            //--SECOND ATTEMPT--
-            bool fruitsMatched = false;
-            while (!fruitsMatched)
-            {
-                foreach (string fruit in fruits)
-                {
-                    string queriedFruit = fruit;
-
-                    if (queriedFruit != fruit)
-                    {
-                        fruit.Concat(" - this item is unique");
-                        Console.WriteLine(fruit);
-                    }
-                    else if (queriedFruit == fruit)
-                    {
-                        fruit.Concat(" - this item is a duplicate");
-                        Console.WriteLine(fruit);
-                    }
-                    fruitsMatched = true;
-                }
-            }
-            Console.WriteLine(fruits);
-
-            //--THIRD ATTEMPT--
+            //Establishes a second list and instantiates it with no items.
             List<string> checkedFruits = new List<string>();
+            //Checks if each item in the first list is present in the second and if it is, prints the value of that string along 
+            // with the duplicate-item string, otherwise/else that item is added to the second list and prints the unique-string
+            // is printed. I.e. the duplicate-string is only printed once it is present in the second list.
             foreach (string fruit in fruits)
             {
-                string queriedFruit = fruit;
-                foreach (string checkedFruit in checkedFruits)
-                { 
-                    if (queriedFruit != checkedFruit)
-                    {
-                        checkedFruits.Add(queriedFruit + " - this item is unique");
-                    }
-                    if (queriedFruit == checkedFruit)
-                    {
-                        checkedFruits.Add(queriedFruit + " - this item is a duplicate");
-                    }
+                if (checkedFruits.Contains(fruit))
+                {
+                    Console.WriteLine(fruit + " - this item is a duplicate");
+                }
+                else
+                {
+                    checkedFruits.Add(fruit);
+                    Console.WriteLine(fruit + " - this item is unique");
                 }
             }
-            Console.WriteLine(checkedFruits);
-
-
+                       
             Console.ReadLine();
         }
     }
