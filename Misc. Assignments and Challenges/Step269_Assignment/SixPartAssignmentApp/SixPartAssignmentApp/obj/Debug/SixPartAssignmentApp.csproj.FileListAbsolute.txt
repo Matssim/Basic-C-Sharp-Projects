@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step269_Assignment\SixPartAssignmentApp\SixPartAssignmentApp\bin\Debug\SixPartAssignmentApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step269_Assignment\SixPartAssignmentApp\SixPartAssignmentApp\bin\Debug\SixPartAssignmentApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step269_Assignment\SixPartAssignmentApp\SixPartAssignmentApp\bin\Debug\SixPartAssignmentApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step269_Assignment\SixPartAssignmentApp\SixPartAssignmentApp\obj\Debug\SixPartAssignmentApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step269_Assignment\SixPartAssignmentApp\SixPartAssignmentApp\obj\Debug\SixPartAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step269_Assignment\SixPartAssignmentApp\SixPartAssignmentApp\obj\Debug\SixPartAssignmentApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step269_Assignment\SixPartAssignmentApp\SixPartAssignmentApp\obj\Debug\SixPartAssignmentApp.pdb
