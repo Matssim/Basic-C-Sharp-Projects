@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step276_Assignment\\TryCatchApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77BD67D-9F01-4B92-8304-8F53EBC06CB8}|TryCatchApp\\TryCatchApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step276_assignment\\trycatchapp\\trycatchapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77BD67D-9F01-4B92-8304-8F53EBC06CB8}|TryCatchApp\\TryCatchApp.csproj|solutionrelative:trycatchapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step276_Assignment\\TryCatchApp\\TryCatchApp\\Program.cs",
+              "RelativeDocumentMoniker": "TryCatchApp\\Program.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step276_Assignment\\TryCatchApp\\TryCatchApp\\Program.cs",
+              "RelativeToolTip": "TryCatchApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:43:31.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

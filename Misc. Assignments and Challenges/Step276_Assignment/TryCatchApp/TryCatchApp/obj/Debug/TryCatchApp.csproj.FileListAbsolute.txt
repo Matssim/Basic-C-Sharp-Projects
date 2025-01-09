@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step276_Assignment\TryCatchApp\TryCatchApp\bin\Debug\TryCatchApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step276_Assignment\TryCatchApp\TryCatchApp\bin\Debug\TryCatchApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step276_Assignment\TryCatchApp\TryCatchApp\bin\Debug\TryCatchApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step276_Assignment\TryCatchApp\TryCatchApp\obj\Debug\TryCatchApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step276_Assignment\TryCatchApp\TryCatchApp\obj\Debug\TryCatchApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step276_Assignment\TryCatchApp\TryCatchApp\obj\Debug\TryCatchApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step276_Assignment\TryCatchApp\TryCatchApp\obj\Debug\TryCatchApp.pdb
