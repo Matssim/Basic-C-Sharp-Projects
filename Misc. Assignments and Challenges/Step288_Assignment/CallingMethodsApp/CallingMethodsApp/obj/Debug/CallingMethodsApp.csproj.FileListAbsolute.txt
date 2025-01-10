@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step288_Assignment\CallingMethodsApp\CallingMethodsApp\bin\Debug\CallingMethodsApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step288_Assignment\CallingMethodsApp\CallingMethodsApp\bin\Debug\CallingMethodsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step288_Assignment\CallingMethodsApp\CallingMethodsApp\bin\Debug\CallingMethodsApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step288_Assignment\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step288_Assignment\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step288_Assignment\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step288_Assignment\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.pdb
