@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step292_Assignment\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step292_Assignment\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step292_Assignment\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step292_Assignment\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step292_Assignment\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step292_Assignment\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step292_Assignment\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.pdb
