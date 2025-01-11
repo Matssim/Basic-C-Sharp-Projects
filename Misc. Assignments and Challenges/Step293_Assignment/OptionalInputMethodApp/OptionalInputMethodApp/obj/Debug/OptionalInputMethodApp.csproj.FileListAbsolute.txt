@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step293_Assignment\OptionalInputMethodApp\OptionalInputMethodApp\bin\Debug\OptionalInputMethodApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step293_Assignment\OptionalInputMethodApp\OptionalInputMethodApp\bin\Debug\OptionalInputMethodApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step293_Assignment\OptionalInputMethodApp\OptionalInputMethodApp\bin\Debug\OptionalInputMethodApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step293_Assignment\OptionalInputMethodApp\OptionalInputMethodApp\obj\Debug\OptionalInputMethodApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step293_Assignment\OptionalInputMethodApp\OptionalInputMethodApp\obj\Debug\OptionalInputMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step293_Assignment\OptionalInputMethodApp\OptionalInputMethodApp\obj\Debug\OptionalInputMethodApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step293_Assignment\OptionalInputMethodApp\OptionalInputMethodApp\obj\Debug\OptionalInputMethodApp.pdb
