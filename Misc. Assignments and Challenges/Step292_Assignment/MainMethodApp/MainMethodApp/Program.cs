@@ -9,7 +9,6 @@ namespace MainMethodApp
             //Establishes the intended code to run
             try
             { 
-
                 //Prints a promt for the user to enter a number
                 Console.WriteLine("Please enter a number to subtract two from it");
                 //Reads the user input and establishes it as the integer variable "UserInt"

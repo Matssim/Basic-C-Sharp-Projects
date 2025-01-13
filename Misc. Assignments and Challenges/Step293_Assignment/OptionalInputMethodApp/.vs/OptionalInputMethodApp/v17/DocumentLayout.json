@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step293_Assignment\\OptionalInputMethodApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1F25C290-2DC6-4474-80A4-DD928FD6B54D}|OptionalInputMethodApp\\OptionalInputMethodApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step293_assignment\\optionalinputmethodapp\\optionalinputmethodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F25C290-2DC6-4474-80A4-DD928FD6B54D}|OptionalInputMethodApp\\OptionalInputMethodApp.csproj|solutionrelative:optionalinputmethodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F25C290-2DC6-4474-80A4-DD928FD6B54D}|OptionalInputMethodApp\\OptionalInputMethodApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step293_assignment\\optionalinputmethodapp\\optionalinputmethodapp\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F25C290-2DC6-4474-80A4-DD928FD6B54D}|OptionalInputMethodApp\\OptionalInputMethodApp.csproj|solutionrelative:optionalinputmethodapp\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,33 +17,11 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step293_Assignment\\OptionalInputMethodApp\\OptionalInputMethodApp\\Program.cs",
-              "RelativeDocumentMoniker": "OptionalInputMethodApp\\Program.cs",
-              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step293_Assignment\\OptionalInputMethodApp\\OptionalInputMethodApp\\Program.cs",
-              "RelativeToolTip": "OptionalInputMethodApp\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCEAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T02:07:27.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MathOperations.cs",
-              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step293_Assignment\\OptionalInputMethodApp\\OptionalInputMethodApp\\MathOperations.cs",
-              "RelativeDocumentMoniker": "OptionalInputMethodApp\\MathOperations.cs",
-              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step293_Assignment\\OptionalInputMethodApp\\OptionalInputMethodApp\\MathOperations.cs",
-              "RelativeToolTip": "OptionalInputMethodApp\\MathOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T02:24:44.459Z",
-              "EditorCaption": ""
             }
           ]
         }
