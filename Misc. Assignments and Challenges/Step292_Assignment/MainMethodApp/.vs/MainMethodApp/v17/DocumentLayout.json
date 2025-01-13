@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step292_Assignment\\MainMethodApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{685B4E2F-2B02-4869-86F1-5758A2C9E944}|MainMethodApp\\MainMethodApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step292_assignment\\mainmethodapp\\mainmethodapp\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685B4E2F-2B02-4869-86F1-5758A2C9E944}|MainMethodApp\\MainMethodApp.csproj|solutionrelative:mainmethodapp\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685B4E2F-2B02-4869-86F1-5758A2C9E944}|MainMethodApp\\MainMethodApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step292_assignment\\mainmethodapp\\mainmethodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685B4E2F-2B02-4869-86F1-5758A2C9E944}|MainMethodApp\\MainMethodApp.csproj|solutionrelative:mainmethodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,11 +26,33 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step292_Assignment\\MainMethodApp\\MainMethodApp\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MainMethodApp\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step292_Assignment\\MainMethodApp\\MainMethodApp\\MathOperations.cs",
+              "RelativeToolTip": "MainMethodApp\\MathOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:26:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step292_Assignment\\MainMethodApp\\MainMethodApp\\Program.cs",
+              "RelativeDocumentMoniker": "MainMethodApp\\Program.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step292_Assignment\\MainMethodApp\\MainMethodApp\\Program.cs",
+              "RelativeToolTip": "MainMethodApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:26:00.8Z",
+              "EditorCaption": ""
             }
           ]
         }

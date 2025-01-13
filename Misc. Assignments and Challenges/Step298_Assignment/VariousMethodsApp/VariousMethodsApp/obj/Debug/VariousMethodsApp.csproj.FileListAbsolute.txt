@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step298_Assignment\VariousMethodsApp\VariousMethodsApp\bin\Debug\VariousMethodsApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step298_Assignment\VariousMethodsApp\VariousMethodsApp\bin\Debug\VariousMethodsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step298_Assignment\VariousMethodsApp\VariousMethodsApp\bin\Debug\VariousMethodsApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step298_Assignment\VariousMethodsApp\VariousMethodsApp\obj\Debug\VariousMethodsApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step298_Assignment\VariousMethodsApp\VariousMethodsApp\obj\Debug\VariousMethodsApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step298_Assignment\VariousMethodsApp\VariousMethodsApp\obj\Debug\VariousMethodsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step298_Assignment\VariousMethodsApp\VariousMethodsApp\obj\Debug\VariousMethodsApp.pdb
