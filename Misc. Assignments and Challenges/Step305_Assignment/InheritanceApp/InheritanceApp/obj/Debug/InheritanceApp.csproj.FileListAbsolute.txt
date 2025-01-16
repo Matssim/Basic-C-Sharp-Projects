@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step305_Assignment\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step305_Assignment\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step305_Assignment\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step305_Assignment\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step305_Assignment\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step305_Assignment\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step305_Assignment\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.pdb
