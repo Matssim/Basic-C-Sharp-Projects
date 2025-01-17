@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step315_Assignment\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step315_Assignment\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step315_Assignment\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step315_Assignment\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step315_Assignment\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step315_Assignment\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step315_Assignment\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.pdb

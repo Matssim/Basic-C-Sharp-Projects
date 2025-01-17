@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step315_Assignment\\AbstractClassApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82318AB3-373C-477F-B01D-490C7EFA38A0}|AbstractClassApp\\AbstractClassApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step315_assignment\\abstractclassapp\\abstractclassapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82318AB3-373C-477F-B01D-490C7EFA38A0}|AbstractClassApp\\AbstractClassApp.csproj|solutionrelative:abstractclassapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82318AB3-373C-477F-B01D-490C7EFA38A0}|AbstractClassApp\\AbstractClassApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step315_assignment\\abstractclassapp\\abstractclassapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82318AB3-373C-477F-B01D-490C7EFA38A0}|AbstractClassApp\\AbstractClassApp.csproj|solutionrelative:abstractclassapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82318AB3-373C-477F-B01D-490C7EFA38A0}|AbstractClassApp\\AbstractClassApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\misc. assignments and challenges\\step315_assignment\\abstractclassapp\\abstractclassapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82318AB3-373C-477F-B01D-490C7EFA38A0}|AbstractClassApp\\AbstractClassApp.csproj|solutionrelative:abstractclassapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step315_Assignment\\AbstractClassApp\\AbstractClassApp\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClassApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step315_Assignment\\AbstractClassApp\\AbstractClassApp\\Employee.cs",
+              "RelativeToolTip": "AbstractClassApp\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:42:38.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step315_Assignment\\AbstractClassApp\\AbstractClassApp\\Person.cs",
+              "RelativeDocumentMoniker": "AbstractClassApp\\Person.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step315_Assignment\\AbstractClassApp\\AbstractClassApp\\Person.cs",
+              "RelativeToolTip": "AbstractClassApp\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:42:17.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step315_Assignment\\AbstractClassApp\\AbstractClassApp\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassApp\\Program.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Misc. Assignments and Challenges\\Step315_Assignment\\AbstractClassApp\\AbstractClassApp\\Program.cs",
+              "RelativeToolTip": "AbstractClassApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:37:49.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
