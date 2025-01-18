@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step327_Assignment\OverloadOperatorApp\OverloadOperatorApp\bin\Debug\OverloadOperatorApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step327_Assignment\OverloadOperatorApp\OverloadOperatorApp\bin\Debug\OverloadOperatorApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step327_Assignment\OverloadOperatorApp\OverloadOperatorApp\bin\Debug\OverloadOperatorApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step327_Assignment\OverloadOperatorApp\OverloadOperatorApp\obj\Debug\OverloadOperatorApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step327_Assignment\OverloadOperatorApp\OverloadOperatorApp\obj\Debug\OverloadOperatorApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step327_Assignment\OverloadOperatorApp\OverloadOperatorApp\obj\Debug\OverloadOperatorApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step327_Assignment\OverloadOperatorApp\OverloadOperatorApp\obj\Debug\OverloadOperatorApp.pdb
