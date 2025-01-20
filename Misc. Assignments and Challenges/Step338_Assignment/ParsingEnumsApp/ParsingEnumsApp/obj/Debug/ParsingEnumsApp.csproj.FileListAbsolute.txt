@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step338_Assignment\ParsingEnumsApp\ParsingEnumsApp\bin\Debug\ParsingEnumsApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step338_Assignment\ParsingEnumsApp\ParsingEnumsApp\bin\Debug\ParsingEnumsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step338_Assignment\ParsingEnumsApp\ParsingEnumsApp\bin\Debug\ParsingEnumsApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step338_Assignment\ParsingEnumsApp\ParsingEnumsApp\obj\Debug\ParsingEnumsApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step338_Assignment\ParsingEnumsApp\ParsingEnumsApp\obj\Debug\ParsingEnumsApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step338_Assignment\ParsingEnumsApp\ParsingEnumsApp\obj\Debug\ParsingEnumsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step338_Assignment\ParsingEnumsApp\ParsingEnumsApp\obj\Debug\ParsingEnumsApp.pdb
