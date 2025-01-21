@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step351_Assignment\LambdaExpressionApp\LambdaExpressionApp\bin\Debug\LambdaExpressionApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step351_Assignment\LambdaExpressionApp\LambdaExpressionApp\bin\Debug\LambdaExpressionApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step351_Assignment\LambdaExpressionApp\LambdaExpressionApp\bin\Debug\LambdaExpressionApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step351_Assignment\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step351_Assignment\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step351_Assignment\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step351_Assignment\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.pdb
