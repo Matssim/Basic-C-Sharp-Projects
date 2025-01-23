@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     //Creates a struct for cards with the attributes of the enums Suit and Face as defined below
     public struct Card

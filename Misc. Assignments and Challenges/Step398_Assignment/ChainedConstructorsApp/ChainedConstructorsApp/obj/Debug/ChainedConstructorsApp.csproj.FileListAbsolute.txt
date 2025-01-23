@@ -1,0 +1,7 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step398_Assignment\ChainedConstructorsApp\ChainedConstructorsApp\bin\Debug\ChainedConstructorsApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step398_Assignment\ChainedConstructorsApp\ChainedConstructorsApp\bin\Debug\ChainedConstructorsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step398_Assignment\ChainedConstructorsApp\ChainedConstructorsApp\bin\Debug\ChainedConstructorsApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step398_Assignment\ChainedConstructorsApp\ChainedConstructorsApp\obj\Debug\ChainedConstructorsApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step398_Assignment\ChainedConstructorsApp\ChainedConstructorsApp\obj\Debug\ChainedConstructorsApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step398_Assignment\ChainedConstructorsApp\ChainedConstructorsApp\obj\Debug\ChainedConstructorsApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Misc. Assignments and Challenges\Step398_Assignment\ChainedConstructorsApp\ChainedConstructorsApp\obj\Debug\ChainedConstructorsApp.pdb

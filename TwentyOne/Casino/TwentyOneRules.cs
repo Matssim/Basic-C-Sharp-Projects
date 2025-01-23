@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneRules
     {
@@ -26,7 +26,14 @@ namespace TwentyOne
             [Face.Ace] = 1
         };
 
-        //
+        //The below method accounts for the double value of Ace (1 or 11), by using the aceCount formula to determine the
+        // amount of Ace's in the hand and creating the result array which can contain any combination value of two Ace's, 
+        // one Ace and a non-Ace card, or two non-Ace cards after the execution of the block. The initial value of value 
+        // is the sum of the hand which is placed a the 0 index of the result array. However, if there is an Ace in the 
+        // hand, the aceCount value is placed a different index in the same array. So, if there are no Aces, the length of 
+        // the result array is 1, which will return the array as is. Then a for loop continues where each item above 1 
+        // increments the length of the array (i) and is then iterated over to have itself multiplied by 10 and added to 
+        // itself (11). That is then added to the result array which is returned with the possible Ace-included hand values.
         private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
