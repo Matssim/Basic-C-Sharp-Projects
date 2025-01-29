@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{937B2022-4BBC-4C68-87F2-DA1DCE1B23F3}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\twentyone\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|solutionrelative:casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{937B2022-4BBC-4C68-87F2-DA1DCE1B23F3}|TwentyOne\\TwentyOne.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\twentyone\\twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937B2022-4BBC-4C68-87F2-DA1DCE1B23F3}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\twentyone\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\twentyone\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F805D95-280E-44BC-923D-AE97A91E6705}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dealer.cs",
-              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Dealer.cs",
-              "RelativeDocumentMoniker": "Casino\\Dealer.cs",
-              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Dealer.cs",
-              "RelativeToolTip": "Casino\\Dealer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ExceptionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\ExceptionEntity.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\ExceptionEntity.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\ExceptionEntity.cs",
+              "RelativeToolTip": "TwentyOne\\ExceptionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:41:43.377Z",
+              "WhenOpened": "2025-01-24T02:32:48.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Player.cs",
-              "RelativeDocumentMoniker": "Casino\\Player.cs",
-              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Player.cs",
-              "RelativeToolTip": "Casino\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FraudException.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeDocumentMoniker": "Casino\\FraudException.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeToolTip": "Casino\\FraudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:31:31.267Z",
+              "WhenOpened": "2025-01-24T00:42:46.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeToolTip": "Casino\\TwentyOneGame.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:23:28.462Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +79,7 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T02:30:55.222Z",
               "EditorCaption": ""
