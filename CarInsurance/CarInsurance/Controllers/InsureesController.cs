@@ -60,6 +60,7 @@ namespace CarInsurance.Controllers
             {
                 insuree.Id = Guid.NewGuid();
                 _context.Add(insuree);
+                insuree.Quote = CalculateQuote(insuree);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
@@ -99,6 +100,7 @@ namespace CarInsurance.Controllers
                 try
                 {
                     _context.Update(insuree);
+                    insuree.Quote = CalculateQuote(insuree);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
@@ -155,60 +157,28 @@ namespace CarInsurance.Controllers
             return _context.Insurees.Any(e => e.Id == id);
         }
 
-        public decimal CalculateInsureeAgeQuote(Insuree insuree)
+        //Calculates the Quote property  
+        public decimal? CalculateQuote(Insuree insuree)
         {
-            //Calculates the age of insuree
-            DateTime today = DateTime.Today;
-            DateTime birthdate = insuree.DateofBirth.ToDateTime(TimeOnly.MinValue);
-            TimeSpan daysold = today - birthdate;
+            insuree.Quote = 50;
+            TimeSpan daysold = DateTime.Today - insuree.DateofBirth.ToDateTime(TimeOnly.MinValue);
             int insureeAge = daysold.Days / 365;
-            //Returns the amount commensurate to the insuree's age 
-            if (insureeAge <= 18) return 100;
-            else if (insureeAge <= 25) return 50;
-            else return 25;
+            if (insureeAge <= 18) { insuree.Quote += 100; }
+            if (insureeAge <= 25) { insuree.Quote += 50; }
+            insuree.Quote += 25;
+            if (insuree.CarYear < 2000 || insuree.CarYear > 2015) { insuree.Quote += 25; }
+            if (insuree.CarMake.ToLower() == "porsche") { insuree.Quote += 25; }
+            if (insuree.CarModel.ToLower() == "carrerra") { insuree.Quote += 25; }
+            insuree.Quote += insuree.SpeedingTickets * 10;
+            if (insuree.DUI) { insuree.Quote *= 1.25M; }
+            if (insuree.CoverageType.ToLower() == "full coverage") { insuree.Quote *= 1.5M; }
+            return insuree.Quote;
         }
 
-        public decimal CalculateCarAgeQuote(Insuree insuree)
+        //Displays the Admin view when /admin is added to the URL
+        public async Task<IActionResult> Admin()
         {
-            //Returns 25 if the car's year is before 2000 or after 2015
-            if (insuree.CarYear < 2000 || insuree.CarYear > 2015) return 25;
-            else return 0;
-        }
-
-        public decimal CalculateCarTypeQuote(Insuree insuree)
-        {
-            //Returns 25 if the car is Porsche and 50 if it's a Porsche Carrerra
-            if (insuree.CarMake.ToLower() == "porsche")
-            {
-                if (insuree.CarModel.ToLower() == "carrerra") return 50;
-                else return 25;
-            }
-            else return 0;
-        }
-
-        public decimal CalculateFinalQuote(Insuree insuree)
-        {
-            //Calculates quote on basis of the insuree's age and the car specs.
-            decimal insureeAgeQuote = CalculateInsureeAgeQuote(insuree);
-            decimal carAgeQuote = CalculateCarAgeQuote(insuree);
-            decimal carTypeQuote = CalculateCarTypeQuote(insuree);
-            //Adds 10 to the quote for each speeding ticket
-            decimal SpeedingTicketQuote = Convert.ToDecimal(insuree.SpeedingTickets) * 10;
-            //Adds the above specs to the base of 50$
-            decimal nonDUIQuote = 50 + insureeAgeQuote + carAgeQuote + carTypeQuote + SpeedingTicketQuote;
-            //Adds 25% to the total if the insuree has a DUI
-            if (insuree.DUI)
-            {
-                decimal baseQuote = nonDUIQuote * 1.25M;
-                //Adds 50% to the total for a quote with a DUI and returns it if the insuree selects full coverage
-                if (insuree.CoverageType.ToLower() == "full coverage") return baseQuote * 1.50M;
-                //Returns the total quote with a DUI, but without full coverage
-                else return baseQuote;
-            }
-            //Adds 50% to the total quote and returns it if the insuree selects full coverage
-            else if (insuree.CoverageType.ToLower() == "full coverage") return nonDUIQuote * 1.50M;
-            //Returns the total quote without a DUI, nor full coverage
-            else return nonDUIQuote;
+            return View(await _context.Insurees.ToListAsync());
         }
     }
 }

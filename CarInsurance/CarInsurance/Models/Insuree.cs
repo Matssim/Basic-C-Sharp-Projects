@@ -13,6 +13,6 @@
         public required bool DUI { get; set; }
         public required int SpeedingTickets { get; set; }
         public required string CoverageType { get; set; }
-        public decimal? Quote {  get; set; }
+        public decimal? Quote { get; set; }
     }
 }
