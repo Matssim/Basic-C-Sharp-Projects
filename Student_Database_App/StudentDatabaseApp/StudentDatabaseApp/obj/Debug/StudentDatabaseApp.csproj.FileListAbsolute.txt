@@ -1,0 +1,12 @@
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe.config
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.pdb
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.dll
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.xml
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.AssemblyReference.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentD.5002D26D.Up2Date
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.exe
+C:\Users\matss\Documents\myRepository\Basic-C-Sharp-Projects\Student_Database_App\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.pdb
