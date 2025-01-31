@@ -42,11 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -121,7 +125,7 @@
               "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureesController.cs",
               "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
               "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwLoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswJ8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T23:21:46.907Z",
               "EditorCaption": ""

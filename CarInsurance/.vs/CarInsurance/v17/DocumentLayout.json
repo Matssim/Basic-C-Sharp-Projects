@@ -42,15 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -62,8 +58,7 @@
               "RelativeToolTip": "CarInsurance\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T05:25:59.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T05:25:59.807Z"
             },
             {
               "$type": "Document",
@@ -75,8 +70,7 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T03:40:58.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T03:40:58.059Z"
             },
             {
               "$type": "Document",
@@ -88,8 +82,7 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T03:32:07.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T03:32:07.991Z"
             },
             {
               "$type": "Document",
@@ -101,8 +94,7 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T03:26:36.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T03:26:36.163Z"
             },
             {
               "$type": "Document",
@@ -114,8 +106,7 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Create.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T03:23:47.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T03:23:47.686Z"
             },
             {
               "$type": "Document",
@@ -125,7 +116,7 @@
               "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureesController.cs",
               "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
               "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAswJ8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwJ8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T23:21:46.907Z",
               "EditorCaption": ""
@@ -140,8 +131,7 @@
               "RelativeToolTip": "CarInsurance\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T23:09:17.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T23:09:17.788Z"
             },
             {
               "$type": "Document",
@@ -153,8 +143,7 @@
               "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T22:16:41.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T22:16:41.039Z"
             }
           ]
         }

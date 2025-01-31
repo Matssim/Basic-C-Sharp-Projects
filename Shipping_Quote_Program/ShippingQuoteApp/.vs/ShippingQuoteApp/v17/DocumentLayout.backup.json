@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Shipping_Quote_Program\\ShippingQuoteApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D2C116-2B55-4625-907B-9C013BEF2208}|ShippingQuoteApp\\ShippingQuoteApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\shipping_quote_program\\shippingquoteapp\\shippingquoteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D2C116-2B55-4625-907B-9C013BEF2208}|ShippingQuoteApp\\ShippingQuoteApp.csproj|solutionrelative:shippingquoteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Shipping_Quote_Program\\ShippingQuoteApp\\ShippingQuoteApp\\Program.cs",
-              "RelativeDocumentMoniker": "ShippingQuoteApp\\Program.cs",
-              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Shipping_Quote_Program\\ShippingQuoteApp\\ShippingQuoteApp\\Program.cs",
-              "RelativeToolTip": "ShippingQuoteApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:22:51.588Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

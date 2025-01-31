@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Anonymous_Income_Comparison_Program\\AnonymousIncomeComparisonApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CA6869-838D-444A-BC43-BF6E26508066}|AnonymousIncomeComparisonApp\\AnonymousIncomeComparisonApp.csproj|c:\\users\\matss\\documents\\myrepository\\basic-c-sharp-projects\\anonymous_income_comparison_program\\anonymousincomecomparisonapp\\anonymousincomecomparisonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CA6869-838D-444A-BC43-BF6E26508066}|AnonymousIncomeComparisonApp\\AnonymousIncomeComparisonApp.csproj|solutionrelative:anonymousincomecomparisonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Anonymous_Income_Comparison_Program\\AnonymousIncomeComparisonApp\\AnonymousIncomeComparisonApp\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousIncomeComparisonApp\\Program.cs",
+              "ToolTip": "C:\\Users\\matss\\Documents\\myRepository\\Basic-C-Sharp-Projects\\Anonymous_Income_Comparison_Program\\AnonymousIncomeComparisonApp\\AnonymousIncomeComparisonApp\\Program.cs",
+              "RelativeToolTip": "AnonymousIncomeComparisonApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:00:57.161Z",
+              "EditorCaption": ""
             }
           ]
         }
