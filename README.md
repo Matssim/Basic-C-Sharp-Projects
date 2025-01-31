@@ -22,7 +22,7 @@
   <p>This is a console app that leverages basic C# comands, datatypes and operations to take in user input for a mock program, that determines whether a given profile qualifies for insurance</p>
 
 <h3 id="misc"><a href="https://github.com/Matssim/Basic-C-Sharp-Projects/tree/main/Misc.%20Assignments%20and%20Challenges">Miscellaneous Assignments and Challenges</a></h3>
-  <p>This is not a sinlge project per say, but a directory of files created for various assignments and challenges during the C# and .NET course. It includes files that leverage basic and advanced C# functions.</p>
+  <p>This is not a single project per say, but a directory of files created for various assignments and challenges during the C# and .NET course. It includes files that leverage basic and advanced C# functions.</p>
 
 <h3 id="Shipping_Quote_Program"><a href="https://github.com/Matssim/Basic-C-Sharp-Projects/tree/main/Shipping_Quote_Program/ShippingQuoteApp">Shipping Quote Program</a></h3>
   <p>This a console app that leverages basic C# comands, datatypes and operations to take in user input for a mock program, that calculates whether a shipment qualifies and what its cost would be</p>
@@ -31,4 +31,4 @@
   <p>This is a code first console app that leverages the MS Entity framework to create a mock database that takes in input on students information and stores them as database objects</p>
 
 <h3 id="TwentyOne"><a href="https://github.com/Matssim/Basic-C-Sharp-Projects/tree/main/TwentyOne">Twentyone Game</a></h3>
-  <p>This is a console app building on various C# comands, datatypes and operations that makes a basic twentyone/blackjack game. It also contains a separte class library structure that allows for other games to reuse pats of the code</p>
+  <p>This is a console app building on various C# comands, datatypes and operations that makes a basic twentyone/blackjack game. It also contains a separte class library structure that allows for other games to reuse parts of the code</p>
